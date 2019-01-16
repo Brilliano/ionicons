@@ -3977,6 +3977,25 @@
       }
     ]
   },
+  "meditate": {
+    "tags": [
+      "meditate"
+    ],
+    "icons": [
+      {
+        "code": "0xf3ab",
+        "name": "ios-meditate"
+      },
+      {
+        "code": "0xf3ab",
+        "name": "ios-meditate-outline"
+      },
+      {
+        "code": "0xf3ac",
+        "name": "md-meditate"
+      }
+    ]
+  },
   "medkit": {
     "tags": [
       "case",

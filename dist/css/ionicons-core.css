@@ -702,6 +702,10 @@
 
 .ion-ios-medical-outline:before { content: "\f45b"; }
 
+.ion-ios-meditate:before { content: "\f3ab"; }
+
+.ion-ios-meditate-outline:before { content: "\f3ab"; }
+
 .ion-ios-medkit:before { content: "\f45e"; }
 
 .ion-ios-medkit-outline:before { content: "\f45d"; }
@@ -1631,6 +1635,8 @@
 .ion-md-medal:before { content: "\f326"; }
 
 .ion-md-medical:before { content: "\f327"; }
+
+.ion-md-meditate:before { content: "\f3ac"; }
 
 .ion-md-medkit:before { content: "\f328"; }
 

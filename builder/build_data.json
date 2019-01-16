@@ -1,5 +1,5 @@
 {
-  "build_hash": "",
+  "build_hash": "eb824061edcb106bc938131952e332bf",
   "prefix": "ion-",
   "name": "Ionicons",
   "icons": [
@@ -1386,6 +1386,14 @@
     {
       "code": "0xf45b",
       "name": "ios-medical-outline"
+    },
+    {
+      "code": "0xf3ab",
+      "name": "ios-meditate"
+    },
+    {
+      "code": "0xf3ab",
+      "name": "ios-meditate-outline"
     },
     {
       "code": "0xf45e",
@@ -3246,6 +3254,10 @@
     {
       "code": "0xf327",
       "name": "md-medical"
+    },
+    {
+      "code": "0xf3ac",
+      "name": "md-meditate"
     },
     {
       "code": "0xf328",
